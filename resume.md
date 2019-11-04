@@ -1,6 +1,6 @@
 # 이력서
 ## 자기소개
-![트와이스]http://pocarisweat.co.kr/wp-content/uploads/2018/03/2018-%ED%8F%AC%EC%B9%B4%EB%A6%AC%EC%8A%A4%EC%9B%A8%ED%8A%B8-%EB%AA%A8%EB%8D%B8-%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4-1024x768.jpg
+![트와이스](https://github.com/SeoJinWook/self-driving/blob/master/twice.jpg?raw=true)
 * 이름 : 서진욱
 * email : kenix1492@gmail.com
 ## 학력
